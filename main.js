@@ -1,3 +1,4 @@
+
 let song_image = document.getElementById("cover_photo")
 let song_title = document.getElementById("title")
 let song_singer = document.getElementById("singer")
